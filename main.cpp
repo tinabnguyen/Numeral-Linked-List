@@ -344,6 +344,8 @@ int main()
     }
     
     printList(head, outfile);       // call print function at the end of the program
+
+   cout << "Hello, world" << endl;
     
     return 0;        
 }
